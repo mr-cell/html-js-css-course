@@ -1,0 +1,9 @@
+$color: #bada55;
+
+body {
+	background: $color;
+}
+
+p {
+	color: lighten($color, 10%);
+}
