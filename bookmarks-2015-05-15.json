@@ -9,6 +9,23 @@
 		"type": "text/x-moz-place-container",
 		"root": "unfiledBookmarksFolder",
 		"children": [{
+			"id": 22,
+			"guid": "xasVKNW47rRe",
+			"title": "ESLint: Pluggable Javascript linter",
+			"index": 0,
+			"dateAdded": 1431335017287000,
+			"lastModified": 1431335017352000,
+			"annos": [{
+				"name": "bookmarkProperties/description",
+				"flags": 0,
+				"expires": 4,
+				"value": "ESLint: Pluggable Javascript linter"
+			}],
+			"type": "text/x-moz-place",
+			"uri": "http://eslint.org/",
+			"charset": "UTF-8",
+			"iconuri": "http://eslint.org/favicon.ico"
+		},{
 			"id": 23,
 			"guid": "xasVKNW47rRU",
 			"title": "Modernizr: the feature detection library for HTML5/CSS3",
