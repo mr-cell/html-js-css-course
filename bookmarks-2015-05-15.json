@@ -1,0 +1,165 @@
+{
+	"children": [{
+		"id": 5,
+		"guid": "YOZTEu5fDlcA",
+		"title": "Zakładki nieprzypisane",
+		"index": 3,
+		"dateAdded": 1328012910879000,
+		"lastModified": 1431671403530000,
+		"type": "text/x-moz-place-container",
+		"root": "unfiledBookmarksFolder",
+		"children": [{
+			"id": 23,
+			"guid": "xasVKNW47rRU",
+			"title": "Modernizr: the feature detection library for HTML5/CSS3",
+			"index": 0,
+			"dateAdded": 1431335017287000,
+			"lastModified": 1431335017352000,
+			"annos": [{
+				"name": "bookmarkProperties/description",
+				"flags": 0,
+				"expires": 4,
+				"value": "Modernizr is an open-source JavaScript library that helps you build the next generation of HTML5 and CSS3-powered websites."
+			}],
+			"type": "text/x-moz-place",
+			"uri": "http://modernizr.com/",
+			"charset": "UTF-8",
+			"iconuri": "http://modernizr.com/favicon.ico"
+		}, {
+			"id": 24,
+			"guid": "_iKfapc-MsmZ",
+			"title": "Can I use... Support tables for HTML5, CSS3, etc",
+			"index": 1,
+			"dateAdded": 1431335018851000,
+			"lastModified": 1431335019088000,
+			"annos": [{
+				"name": "bookmarkProperties/description",
+				"flags": 0,
+				"expires": 4,
+				"value": ""
+			}],
+			"type": "text/x-moz-place",
+			"uri": "http://caniuse.com/",
+			"charset": "UTF-8",
+			"iconuri": "http://caniuse.com/img/favicon-128.png"
+		}, {
+			"id": 25,
+			"guid": "4wRcWZN25FM0",
+			"title": "Dive Into HTML5",
+			"index": 2,
+			"dateAdded": 1431335020411000,
+			"lastModified": 1431335020611000,
+			"annos": [{
+				"name": "bookmarkProperties/description",
+				"flags": 0,
+				"expires": 4,
+				"value": ""
+			}],
+			"type": "text/x-moz-place",
+			"uri": "http://diveintohtml5.info/",
+			"charset": "UTF-8",
+			"iconuri": "http://diveintohtml5.info/favicon.ico"
+		}, {
+			"id": 26,
+			"guid": "w80WeQzYOU3E",
+			"title": "HTML5 Doctor, helping you implement HTML5 today",
+			"index": 3,
+			"dateAdded": 1431335023053000,
+			"lastModified": 1431335023055000,
+			"annos": [{
+				"name": "bookmarkProperties/description",
+				"flags": 0,
+				"expires": 4,
+				"value": ""
+			}],
+			"type": "text/x-moz-place",
+			"uri": "http://html5doctor.com/",
+			"charset": "UTF-8",
+			"iconuri": "http://html5doctor.com/favicon.ico"
+		}, {
+			"id": 27,
+			"guid": "0lvcpPybvdB6",
+			"title": "lorempixel - placeholder images for every case",
+			"index": 4,
+			"dateAdded": 1431335025492000,
+			"lastModified": 1431335025495000,
+			"annos": [{
+				"name": "bookmarkProperties/description",
+				"flags": 0,
+				"expires": 4,
+				"value": "Placeholder Images for every case. Webdesign or Print. Just put a custom url in your html and you receive a proper placeholder picture"
+			}],
+			"type": "text/x-moz-place",
+			"uri": "http://lorempixel.com/",
+			"charset": "UTF-8",
+			"iconuri": "http://lorempixel.com/favicon.png"
+		}, {
+			"id": 28,
+			"guid": "wTGc25rzJHU3",
+			"title": "Validation results for contents of text-input area",
+			"index": 5,
+			"dateAdded": 1431335028086000,
+			"lastModified": 1431335028184000,
+			"annos": [{
+				"name": "bookmarkProperties/description",
+				"flags": 0,
+				"expires": 4,
+				"value": ""
+			}],
+			"type": "text/x-moz-place",
+			"uri": "https://validator.nu/",
+			"charset": "UTF-8",
+			"iconuri": "https://validator.nu/icon.png"
+		}, {
+			"id": 29,
+			"guid": "owXBChkmmFc7",
+			"title": "DevDocs",
+			"index": 6,
+			"dateAdded": 1431337742849000,
+			"lastModified": 1431337742852000,
+			"annos": [{
+				"name": "bookmarkProperties/description",
+				"flags": 0,
+				"expires": 4,
+				"value": "DevDocs combines 66 reference documentations in a fast, organized, and searchable interface: HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++, etc."
+			}],
+			"type": "text/x-moz-place",
+			"uri": "http://devdocs.io/",
+			"charset": "UTF-8",
+			"iconuri": "http://cdn.devdocs.io/favicon.ico"
+		}, {
+			"id": 30,
+			"guid": "kxSPDKcUkTmc",
+			"title": "NodeSchool",
+			"index": 7,
+			"dateAdded": 1431584027786000,
+			"lastModified": 1431584027801000,
+			"annos": [{
+				"name": "bookmarkProperties/description",
+				"flags": 0,
+				"expires": 4,
+				"value": ""
+			}],
+			"type": "text/x-moz-place",
+			"uri": "http://nodeschool.io/",
+			"charset": "UTF-8",
+			"iconuri": "http://nodeschool.io/favicon.ico"
+		}, {
+			"id": 31,
+			"guid": "VE03X-_kWmYB",
+			"title": "HTML2Jade - HTML to Jade Online Realtime Converter",
+			"index": 8,
+			"dateAdded": 1431606454434000,
+			"lastModified": 1431606454439000,
+			"annos": [{
+				"name": "bookmarkProperties/description",
+				"flags": 0,
+				"expires": 4,
+				"value": "HTML2jade help you convert a HTML snippet to a Jade snippet. Useful for testing out how something would look in Jade vs HTML"
+			}],
+			"type": "text/x-moz-place",
+			"uri": "http://html2jade.org/",
+			"charset": "UTF-8"
+		}]
+	}]
+}
